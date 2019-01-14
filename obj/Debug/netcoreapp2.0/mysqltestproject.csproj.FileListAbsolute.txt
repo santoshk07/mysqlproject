@@ -1,0 +1,11 @@
+C:\Santosh\mysqltestproject\mysqltestproject\bin\Debug\netcoreapp2.0\mysqltestproject.deps.json
+C:\Santosh\mysqltestproject\mysqltestproject\bin\Debug\netcoreapp2.0\mysqltestproject.runtimeconfig.json
+C:\Santosh\mysqltestproject\mysqltestproject\bin\Debug\netcoreapp2.0\mysqltestproject.runtimeconfig.dev.json
+C:\Santosh\mysqltestproject\mysqltestproject\bin\Debug\netcoreapp2.0\mysqltestproject.dll
+C:\Santosh\mysqltestproject\mysqltestproject\bin\Debug\netcoreapp2.0\mysqltestproject.pdb
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.csproj.CoreCompileInputs.cache
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.AssemblyInfoInputs.cache
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.AssemblyInfo.cs
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.dll
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.pdb
+C:\Santosh\mysqltestproject\mysqltestproject\obj\Debug\netcoreapp2.0\mysqltestproject.csprojAssemblyReference.cache
